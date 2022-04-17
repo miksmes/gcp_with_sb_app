@@ -1,0 +1,14 @@
+apiVersion: v2
+appVersion: 1.2.3
+description: My Helm chart for Kubernetes
+keywords:
+- apache
+- http
+- https
+- mikhailyesman
+maintainers:
+- email: mikhailyesman@gmail.com
+  name: Mikhail Yesman
+name: smesapp-HelmChart
+type: application
+version: 0.1.0
